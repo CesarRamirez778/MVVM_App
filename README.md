@@ -10,4 +10,4 @@
 ------------
 El presente documento hace énfasis en el proceso de investigacion de la app y coontiene las evidencias de toda su funcionalidad
 
-• [Documento PDF](https://drive.google.com/file/d/17TN-MAY1cw1oEhT0lggzzmXhy3VcA6NV/view "Documento Fase 1")
+• [PDF Enlace 1](https://github.com/CesarRamirez778/MVVM_App/blob/master/Documentos/TrabajoDeInvestigacion(MVVM).pdf)
